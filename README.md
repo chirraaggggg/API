@@ -67,7 +67,3 @@ API/
 ├── package.json
 └── task.txt          # Route planning notes
 ```
-
-## License
-
-ISC
